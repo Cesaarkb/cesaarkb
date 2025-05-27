@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Soy un Ingeniero en Sistemas Computacionales recién egresado, continuo adquiriendo conocimientos y es momento de trabajar con Versión de Código, tengo conocimientos en Java, Spring Boot, Spring Data, Hibernate/JPA así como en HTML5, CSS3, Javascript, Angular (Typescript) y Bases de Datos SQL
 <!--
 **Cesaarkb/cesaarkb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
